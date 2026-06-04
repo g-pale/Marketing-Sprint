@@ -135,6 +135,8 @@ export const translations = {
     footerLinks: {
       telegram: "Telegram",
       linkedin: "LinkedIn",
+      telegramUrl: "https://t.me/ashyrovnfounders",
+      linkedinUrl: "https://www.linkedin.com/in/ahmet-ashyrov/ru",
     },
   },
   tm: {
@@ -272,6 +274,8 @@ export const translations = {
     footerLinks: {
       telegram: "Telegram",
       linkedin: "LinkedIn",
+      telegramUrl: "https://t.me/ashyrovnfounders",
+      linkedinUrl: "https://www.linkedin.com/in/ahmet-ashyrov/ru",
     },
   },
 };

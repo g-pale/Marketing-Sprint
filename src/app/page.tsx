@@ -160,13 +160,17 @@ export default function Home() {
             aria-label="Social links"
           >
             <a
-              href="#"
+              href={t.footerLinks.telegramUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-sm text-gray-400 transition-colors hover:text-white"
             >
               {t.footerLinks.telegram}
             </a>
             <a
-              href="#"
+              href={t.footerLinks.linkedinUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-sm text-gray-400 transition-colors hover:text-white"
             >
               {t.footerLinks.linkedin}
