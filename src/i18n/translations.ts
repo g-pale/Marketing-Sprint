@@ -142,7 +142,7 @@ export const translations = {
   tm: {
     heroTitle: "Marketing Sprint",
     heroSubtitle:
-      "6 amaly iş duşuşygy arkaly islegi dolandyrýan ulgamy gurmak",
+      "Islegi dolandyrýan ulgamy gurmak hakynda 6 amaly iş duşuşygy",
     heroDescription:
       "Kompaniýalaryň köpüsi pul ýitirýär, sebäbi marketingiň “erbet işleýändigi” üçin däl. Köplenç mesele başga ýerde bolýar: önüm, satuw we marketing biri-biri bilen baglanyşmaýar. Netijede reklama müşderi getirýär, satuw işgärleri “lidler erbet” diýýär, biznes eýesi hemme zady el bilen dolandyrmaga mejbur bolýar, ösüş bolsa durnukly girdejä öwrülmeýär.",
     heroButton: "Maksatnama",
