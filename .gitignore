@@ -53,3 +53,4 @@ yarn-error.log*
 
 # nested empty GitHub clone (LICENSE already at repo root if added)
 /Marketing-Sprint/
+.cursor/rules/marketing-sprint.mdc
